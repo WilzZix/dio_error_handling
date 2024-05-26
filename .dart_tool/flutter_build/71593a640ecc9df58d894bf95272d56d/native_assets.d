@@ -1,0 +1,1 @@
+ /Users/boburbek/StudioProjects/dio_test/.dart_tool/flutter_build/71593a640ecc9df58d894bf95272d56d/native_assets.yaml: 
